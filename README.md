@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, this is Hei</h1>
+<h1 align="center">
+  <p><img width="70%" src="https://loficlub.vercel.app/img/keyboard.gif"></p>
+  <p>Hi 👋, this is Hei~</p>
+</h1>
 <h3 align="center">A first-year university student majoring Artificial Intelligence.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=thisishei&label=New%20viewer!%20Views%20add%201%20equals%20to&color=f58e8e&style=flat" alt="thisishei" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thisishei&label=Views:&color=f58e8e&style=flat" alt="thisishei" /> </p>
 
 - 🌱 I’m currently learning **how to learn =:)**
 
@@ -9,6 +12,7 @@
 
 - 🎈 I'm interested in **anything that makes me look cool!!**
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -39,8 +43,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thisishei&show_icons=true&locale=en&theme=buefy" alt="thisishei"/></p>
+<br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thisishei&show_icons=true&locale=en&theme=buefy" alt="thisishei"/></p>
 
 <!--
 **thisishei/thisishei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
