@@ -13,7 +13,7 @@
 - 🎈 I'm interested in **anything that makes me look cool!!**
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools (that I have learnt~):</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -43,8 +43,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
-<br><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thisishei&show_icons=true&locale=en&theme=buefy" alt="thisishei"/></p>
 
 <!--
 **thisishei/thisishei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
