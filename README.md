@@ -1,8 +1,8 @@
 <h1 align="center">
   <p><img width="70%" src="https://loficlub.vercel.app/img/keyboard.gif"></p>
-  <p>Hi 👋, this is Hei~</p>
+  <p>Halo, this is Hei~</p>
 </h1>
-<h3 align="center">A first-year university student majoring Artificial Intelligence.</h3>
+<h3 align="center">An undergraduate student majoring Artificial Intelligence.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thisishei&label=Views:&color=f58e8e&style=flat" alt="thisishei" /> </p>
 
