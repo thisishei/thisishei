@@ -1,6 +1,6 @@
 <h1 align="center">
   <p><img width="70%" src="https://loficlub.vercel.app/img/keyboard.gif"></p>
-  <p>Halo, this is Hei~</p>
+  <p>Hello, this is Hei~</p>
 </h1>
 <h3 align="center">An undergraduate student majoring Artificial Intelligence.</h3>
 
@@ -13,7 +13,7 @@
 - 🎈 I'm interested in **anything that makes me look cool!!**
 
 <br>
-<h3 align="left">Languages and Tools (that I have learnt~):</h3>
+<h3 align="left">Languages and Tools: (that I have little experience in using them)</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
